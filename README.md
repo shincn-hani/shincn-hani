@@ -1,19 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Hưng Nguyễn  
 
-<!--
-**shincn-hani/shincn-hani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Fullstack Developer  
+Passionate about building scalable web applications and continuously improving my technical skills.  
+My journey is focused on becoming a strong Web Developer, and eventually growing into a **Bridge System Engineer (BrSE)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shincn-hani&show_icons=true)
+### 🧠 Backend
+- **Java**  
+- Spring Boot (learning path)
+
+### 🎨 Frontend
+- **React**  
+- JavaScript / TypeScript (improving)
+
+---
+
+## 🎯 Goals
+- Deepen my expertise in **web development**  
+- Strengthen communication & technical understanding to become a **BrSE**  
+- Work on real-world projects to enhance problem-solving and teamwork skills  
+
+---
+
+## 📫 Contact
+- **Email:** hungnq9120@gmail.com  
+
+---
+
+## 📊 GitHub Stats  
+> *(Bạn có thể thêm token để tránh lỗi "limit rate". Mình có thể hướng dẫn nếu bạn muốn.)*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ About Me
+I enjoy turning ideas into real, functioning products.  
+Always open to learning, sharing, and contributing to the developer community.
+
+---
+
+### 🌱 “Keep learning, keep building.”  
