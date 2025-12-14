@@ -31,11 +31,10 @@ My journey is focused on becoming a strong Web Developer, and eventually growing
 ---
 
 ## 📊 GitHub Stats  
-> *(Bạn có thể thêm token để tránh lỗi "limit rate". Mình có thể hướng dẫn nếu bạn muốn.)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shincn-hani&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shincn-hani&layout=compact&theme=tokyonight)
 
 ---
 
