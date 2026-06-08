@@ -9,13 +9,18 @@ My journey is focused on becoming a strong Web Developer, and eventually growing
 ## 🚀 Tech Stack
 
 ### 🧠 Backend
-- **Java**  
-- Spring Boot (learning path)
+- Java  -> Spring Boot
+- Python -> Django
 
 ### 🎨 Frontend
-- **React**  
+- ReactJS  
 - JavaScript / TypeScript (improving)
 
+### 🐳 DevOps
+- Docker
+- AWS/Azure
+- Nginx
+  
 ---
 
 ## 🎯 Goals
