@@ -32,15 +32,18 @@ My journey is focused on becoming a strong Web Developer, and eventually growing
 
 ## 📊 GitHub Stats  
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img
-    src="https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api?username=shincn-hani&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api/top-langs/?username=shincn-hani&layout=compact&theme=tokyonight"
-    height="180"
-  />
+  <img height="180em"
+       src="https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api?username=shincn-hani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em"
+       src="https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api/top-langs/?username=shincn-hani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="75%"
+       src="https://github-readme-streak-stats.herokuapp.com?user=shincn-hani&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
