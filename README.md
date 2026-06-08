@@ -32,9 +32,9 @@ My journey is focused on becoming a strong Web Developer, and eventually growing
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shincn-hani&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api?username=shincn-hani&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shincn-hani&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api?username=shincn-hani&layout=compact&theme=tokyonight)
 
 ---
 
