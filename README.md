@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Hưng Nguyễn  
+nickname: ShinCN
 
 ### 💻 Fullstack Developer  
 Passionate about building scalable web applications and continuously improving my technical skills.  
