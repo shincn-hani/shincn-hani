@@ -34,11 +34,9 @@ My journey is focused on becoming a strong Web Developer, and eventually growing
 
 <p align="center">
   <img
-    width="49%"
     src="https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api?username=shincn-hani&show_icons=true&theme=tokyonight"
   />
   <img
-    width="49%"
     src="https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api/top-langs/?username=shincn-hani&layout=compact&theme=tokyonight"
   />
 </p>
