@@ -32,8 +32,6 @@ My journey is focused on becoming a strong Web Developer, and eventually growing
 
 ## 📊 GitHub Stats  
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
   <img height="180em"
        src="https://github-readme-stats-flame-xi-2gbqq5rhf3.vercel.app/api?username=shincn-hani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
